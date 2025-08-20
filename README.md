@@ -1,7 +1,7 @@
 # Tugas PBO - Inheritance 2 Tingkat & Enkapsulasi
 
 ## Tentang
-Repositori ini dibuat untuk memenuhi tugas Mata Kuliah **PBO (Pemrograman Berorientasi Objek / Object Oriented Programming)**.  
+Repositori ini dibuat untuk memenuhi tugas Mata Kuliah **PBO (Pemrograman Berorientasi Objek / Object Oriented Programming)** pada pertemuan pertama.  
 Topik yang dipelajari adalah **Inheritance (pewarisan kelas)** dengan **dua tingkatan** serta penerapan **Enkapsulasi (getter & setter)**.
 
 ## Konsep Utama
